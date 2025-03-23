@@ -1,0 +1,18 @@
+{
+  "tick":"1700265600",
+  "text":"- Bug fixes
+- Performance boost
+- UI improvement
+- Introducing PRO-exclusive commands
+- Introducing PRO-exclusive chat tag
+- Introducing PRO-exclusive overhead display
+- Introducing catalog
+- Introducing a new AI model: google/flan-t5-base
+- Added the option to exit the default menu screen
+- Added the option to delete messages
+- Added a cooldown timer to notify users of passive rewards
+- Added a new rewards tab
+- Shorter message cooldown for everyone
+- Faster messages for everyone
+- Messages now save
+}
